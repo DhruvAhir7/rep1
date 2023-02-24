@@ -1,0 +1,58 @@
+@media (max-width:400px) {
+
+    .Main-vid{
+        
+        align-content: center;
+        align-items: center;
+        /* height:15%; */
+        
+        opacity: 50%;
+        width: 375px;
+      
+    }
+
+
+}
+
+@media (min-width: 1281px) {}
+    body{
+        align-content: center;
+        align-items: center;
+        text-align: center;
+        align-self: center;
+    }
+    
+
+    video {
+        
+        align-content: center;
+        align-items: center;
+        height: 60rem;
+        width:120rem;
+        opacity: 50%;
+      
+    }
+    .Video-text{
+        position:absolute ;
+        text-align: center;
+        padding-top: 10rem;
+        margin-right: 7rem;
+        margin-left: 75rem;
+        z-index: 1;
+    }
+    pre
+    {
+        font-size: 3.125rem;
+    }
+    .bap-ka-class
+    {
+       
+        margin-top: 30rem;
+        
+        /* padding-left: 50rem; */
+    }
+/* .carousel-inner
+{
+   position 
+} */
+/* 975 1920 */

@@ -1,0 +1,12 @@
+body{
+        max-width: 100%;
+        overflow-x: hidden;
+}
+a:hover
+{
+        padding: 10px;
+        border-bottom:2px solid brown;
+        /* border-radius: 20px; */
+        /* box-shadow: 0 0 18px 0 #1c87c9; */
+        /* background-color: black; */
+}
